@@ -3,5 +3,5 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  rand 200..500
+  rand 6 > 3
 end
